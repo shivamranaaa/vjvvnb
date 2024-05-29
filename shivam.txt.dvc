@@ -1,0 +1,5 @@
+outs:
+- md5: 8b054659301f33cf197f6f2796f86ef5
+  size: 120
+  hash: md5
+  path: shivam.txt
